@@ -9,4 +9,4 @@ cd ./model;
 ![architecture](https://github.com/LingtianYuan/STT-FSDP/blob/main/architecture.png)
 
 ## Preliminary Experimental Results
-![results](https://github.com/LingtianYuan/STT-FSDP/blob/main/result.png)
+![results](https://github.com/LingtianYuan/STT-FSDP/blob/main/results.png)
