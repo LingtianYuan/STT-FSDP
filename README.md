@@ -7,3 +7,5 @@ cd ./model;
 
 ## Architecture
 ![architecture](https://github.com/LingtianYuan/STT-FSDP/blob/main/architecture.png)
+
+## Preliminary Experimental Results
