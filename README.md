@@ -1,3 +1,3 @@
 ## Training
-cd ./model
-<br> python train.py -d \$\{DATASET_NAME\}\$ -g \$\{GPU_ID\}\$
+cd ./model;
+<br> python train.py -d "DATASET_NAME" -g "GPU_ID";
